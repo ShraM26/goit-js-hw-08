@@ -1,4 +1,8 @@
-body, 
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+} 
+
 ul {
     margin: 0px;
 }
@@ -9,7 +13,7 @@ ul {
     list-style: none;
     justify-content: center;
     padding: 24px 156px;
-    max-width: 1440px;
+   
 }
 
 .gallery-item {
